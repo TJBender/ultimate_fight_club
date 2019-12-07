@@ -8,5 +8,6 @@ gem "require_all"
 gem "faker"
 gem "rake"
 gem "tty-prompt"
+gem "rufo"
 
 
